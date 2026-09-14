@@ -59,7 +59,7 @@ mime = "0.3.17"
 path = { path = "crates/path" }
 perf = { path = "tooling/perf" }
 refineable = { path = "crates/refineable" }
-rodio = { git = "https://github.com/RustAudio/rodio", rev = "e50e726ddd0292f6ef9de0dda6b90af4ed1fb66a", features = ["wav", "playback", "wav_output", "recording"] }
+rodio = { git = "https://github.com/RustAudio/rodio", rev = "685e05765c2aff8fbb51e32cda5b18428d09ffbe", features = ["wav", "playback", "wav_output", "recording"] }
 scheduler = { path = "crates/scheduler" }
 sum_tree = { path = "crates/sum_tree" }
 util = { path = "crates/util" }
