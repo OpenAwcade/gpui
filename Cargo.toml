@@ -311,7 +311,7 @@ pretty_assertions = { version = "1.4.1", features = ["unstable"] }
 proc-macro2 = "1.0.107"
 profiling = "1"
 # replace this with main when #635 is merged
-proptest = { git = "https://github.com/proptest-rs/proptest", rev = "3dca198a8fef1b32e3a66f1e1897c955b4dc5b5b", features = ["attr-macro"] }
+proptest = { git = "https://github.com/proptest-rs/proptest", rev = "a6f033cf83adfd55557b86e6065e6f4df054ec70", features = ["attr-macro"] }
 proptest-derive = "0.8.0"
 proxyvars = "0.2"
 prost = "0.9"
